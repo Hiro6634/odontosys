@@ -1,0 +1,19 @@
+.Titlebar{
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top:0;
+    left: 0;
+    background-color: rgb(60, 79, 92);  
+    display:flex;
+    align-items: center;
+ }
+
+.Logo{
+    width:10%;
+    height: auto;
+}
+.Title{
+    width: 90%;
+    height: auto;
+}
