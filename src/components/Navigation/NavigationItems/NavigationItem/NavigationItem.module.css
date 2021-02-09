@@ -1,0 +1,26 @@
+.NavigationItem {
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+}
+
+.NavigationItem a {
+    color: #8F5C2C;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    text-align: left;
+}
+
+.NavigationItem a:hover {
+    color: #40A4C8;
+}
+
+.icon{
+    width:16px;
+    align-items: center;
+    vertical-align: baseline;
+    margin-right: 10px;
+}
